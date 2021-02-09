@@ -247,8 +247,9 @@ Utility
 |Circular Small | X |   |
 |Utilitarian Large | X |   |
 
-|                   | Activity | Artist | D | E |
-|-------------------|---|---|---|---|
-| Circular Small    | X |   |   |   |
-| Utilitarian Large | X |   |   |   |
-| 3                 |   |   |   |   |
+|                   | Activity | Astronomy | Breath | California Rectangle | California Circle |
+|-------------------|----------|-----------|--------|----------------------|-------------------|
+| Circular Small    | X        |           |        |                      |                   |
+| Utilitarian Large | X        | X         |        |                      |                   |
+| Utilitarian Small |          |           |        |                      |                   |
+| Utilitarian Small Flat |     | X         |        |                      |                   |
