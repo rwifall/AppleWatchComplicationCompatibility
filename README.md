@@ -1,6 +1,50 @@
 # Apple Watch Complication Compatibility
 What complication types work with different Apple Watch Faces?
 
+|         | Circular Small | Extra Large | Graphic Bezel | Graphic Circular | Graphic Corner | Graphic Rectangular | Modular Large | Modular Small | Utilitarian Large | Utilitarian Small | Utilitarian Small Flat |
+|---------|----------------|-------------|---------------|------------------|----------------|---------------------|---------------|---------------|-------------------|-------------------|------------------------|
+| Activity   | X           |             |               |                  |                |                     |               |               | X                 |                   |                        |
+| Astronomy                |             |               |                  |                |                     |               |               | X                 |                   | X                      |
+| Breath     | X           |             |               |                  |                |                     |               |               | X                 |                   |                        |
+| California Rectangle |   |             |               | X                |                |                     |               |               |                   |                   |                        |
+| California Circle |      |             |               |                  | X              |                     |               |               | X                 |                   |                        |
+| Chronograph |            |             |               |                  |                |                     |               |               |                   | X                 |                        |
+| Chronograph Pro |        |             |               |                  | X              |                     |               |               |                   |                   |                        |
+| Color Circle/Dial | X    |             |               |                  |                |                     |               |               |                   |                   |                        |
+| Count Up |               |             |               |                  | X              |                     |               |               |                   |                   |                        |
+| Explorer | X             |             |               |                  |                |                     |               |               | X                 |                   |                        |
+| Fire and Water Circle | X |            |               |                  |                |                     |               |               | X                 |                   |                        |
+| GMT |                    |             |               |                  | X              |                     |               |               |                   |                   |                        |
+| Gradient |               |             |               |                  | X              |                     |               |               | X                 |                   |                        |
+| Infograph |              |             | X             | X                | X              |                     |               |               |                   |                   |                        |
+| Infograph Modular |      |             |               |                  | X              | X                   |               |               |                   |                   |                        |
+| Kaleidoscope Facet II, Radial, Rosette | X  |  |       |                  |                |                     |               |               | X                 |                   |                        |
+| Liquid Metal Circle | X  |             |               |                  |                |                     |               |               | X                 |                   |                        |
+| Memoji |                 |             |               |                  |                |                     |               |               | X                 |                   |                        |
+| Meridian |               |             |               | X                |                |                     |               |               |                   |                   |                        |
+| Mickey/Minnie Mouse |    |             |               |                  |                |                     |               |               | X                 | X                 |                        |
+| Modular |                |             |               |                  |                |                     | X             | X             |                   |                   |                        |
+| Modular Compact |        |             |               | X                |                | X                   |               |               |                   |                   |                        |
+| Motion |                 |             |               |                  |                |                     |               |               | X                 |                   | X                      |
+| Numerals |               |             |               |                  |                |                     |               |               |                   | X                 |                        |
+| Photos |                 |             |               |                  |                |                     |               |               | X                 |                   | X                      |
+| Pride Digital |          |             |               |                  |                |                     |               |               | X                 |                   | X                      |
+| Pride Analog Circle | X  |             |               |                  |                |                     |               |               |                   |                   |                        |
+| Simple |                 |             |               |                  |                |                     |               |               |                   | X                 |                        |
+| Siri |                   |             |               |                  |                |                     |               | X             |                   |                   | X                      |
+| Solar Dial |             |             |               |                  | X              |                     |               |               |                   |                   |                        |
+| Stripes Circular |       |             |               |                  | X              |                     |               |               |                   |                   |                        |
+| Timelapse |              |             |               |                  |                |                     |               |               | X                 |                   | X                      |
+| Toy Story |              |             |               |                  |                |                     |               |               | X                 |                   | X                      |
+| Unity |                  |             |               |                  |                |                     |               |               | X                 |                   |                        |
+| Utility |                |             |               |                  |                |                     |               |               | X                 | X                 |                        |
+| Vapor Circle | X         |             |               |                  |                |                     |               |               | X                 |                   |                        |
+| X-Large |                | X           |               |                  |                |                     |               |               |                   |                   |                        |
+
+
+Raw Data:
+
+
 Activity (Rings, Subdials, Digital)
 - Top Left: Circular Small
 - Top Right: Circular Small
@@ -256,11 +300,3 @@ Complication Types:
 - Utilitarian Large
 - Utilitarian Small
 - Utilitarian Small Flat
-
-|                   | Circular Small | Extra Large | Graphic Bezel | Graphic Circular | Graphic Corner | Graphic Rectangular | Modular Large | Modular Small | Utilitarian Large | Utilitarian Small | Utilitarian Small Flat |
-|-------------------|----------------|-------------|---------------|------------------|----------------|---------------------|---------------|---------------|-------------------|-------------------|------------------------|
-| Activity          |                |             |               |                  |                |                     |               |               |                             |                                 |                        |
-| Astronomy         |                |             |               |                  |                |                     |               |               |                             |                                 |                        |
-| Breath            |                |             |               |                  |                |                     |               |               |                             |                                 |                        |
-| California Rectangle |             |             |               |                  |                |                     |               |               |                             |                                 |                        |
-| California Circle |                |             |               |                  |                |                     |               |               |                             |                                 |                        |
