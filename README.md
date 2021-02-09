@@ -242,14 +242,25 @@ Utility
 - Bottom: Utilitarian Large
 
 
+Complication Types:
+- Circular Small
+- Extra Large
+- Graphic Bezel
+- Graphic Circular
+- Graphic Corner
+- Graphic Rectangular
+- Modular Large
+- Modular Small
+- Monogram
+- Middle (Date)
+- Utilitarian Large
+- Utilitarian Small
+- Utilitarian Small Flat
 
-|() | Activity (Rings, Subdials, Digital) | Artist | 
-|Circular Small | X |   |
-|Utilitarian Large | X |   |
-
-|                   | Activity | Astronomy | Breath | California Rectangle | California Circle |
-|-------------------|----------|-----------|--------|----------------------|-------------------|
-| Circular Small    | X        |           |        |                      |                   |
-| Utilitarian Large | X        | X         |        |                      |                   |
-| Utilitarian Small |          |           |        |                      |                   |
-| Utilitarian Small Flat |     | X         |        |                      |                   |
+|                   | Circular Small | Extra Large | Graphic Bezel | Graphic Circular | Graphic Corner | Graphic Rectangular | Modular Large | Modular Small | Utilitarian Large | Utilitarian Small | Utilitarian Small Flat |
+|-------------------|----------------|-------------|---------------|------------------|----------------|---------------------|---------------|---------------|-------------------|-------------------|------------------------|
+| Activity          |                |             |               |                  |                |                     |               |               |                             |                                 |                        |
+| Astronomy         |                |             |               |                  |                |                     |               |               |                             |                                 |                        |
+| Breath            |                |             |               |                  |                |                     |               |               |                             |                                 |                        |
+| California Rectangle |             |             |               |                  |                |                     |               |               |                             |                                 |                        |
+| California Circle |                |             |               |                  |                |                     |               |               |                             |                                 |                        |
