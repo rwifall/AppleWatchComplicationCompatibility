@@ -247,8 +247,8 @@ Utility
 |Circular Small | X |   |
 |Utilitarian Large | X |   |
 
-|   | Activity | C | D | E |
-|---|---|---|---|---|
-| 1 |   |   |   |   |
-| 2 |   |   |   |   |
-| 3 |   |   |   |   |
+|                   | Activity | Artist | D | E |
+|-------------------|---|---|---|---|
+| Circular Small    | X |   |   |   |
+| Utilitarian Large | X |   |   |   |
+| 3                 |   |   |   |   |
