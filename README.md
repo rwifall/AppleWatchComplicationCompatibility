@@ -137,12 +137,12 @@ Infograph
 - Sub-dial Bottom: Graphic Circular
 
 Infograph Modular
-- Top Left: Graphic Corner
+- Top Left: Graphic Circular
 - Date
 - Middle: Graphic Rectangular
-- Bottom Left: Graphic Corner
-- Bottom Middle: Graphic Corner
-- Bottom Right: Graphic Corner
+- Bottom Left: Graphic Circular
+- Bottom Middle: Graphic Circular
+- Bottom Right: Graphic Circular
 
 Kaleidoscope (Facet I)
 - NONE
