@@ -1,5 +1,5 @@
-# AppleWatchComplicationCompatibility
-Apple Watch face complication compatibility matrix
+# Apple Watch Complication Compatibility
+What complication types work with different Apple Watch Faces?
 
 Activity (Rings, Subdials, Digital)
 - Top Left: Circular Small
