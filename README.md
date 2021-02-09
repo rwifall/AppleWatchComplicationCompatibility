@@ -246,3 +246,9 @@ Utility
 |() | Activity (Rings, Subdials, Digital) | Artist | 
 |Circular Small | X |   |
 |Utilitarian Large | X |   |
+
+|   | Activity | C | D | E |
+|---|---|---|---|---|
+| 1 |   |   |   |   |
+| 2 |   |   |   |   |
+| 3 |   |   |   |   |
